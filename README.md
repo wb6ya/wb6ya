@@ -32,7 +32,7 @@
 
 ---
 
-<img src="https://github.com/wb6ya/wb6ya/blob/main/assets/dace65c5-be88-4f21-bad7-f79658ac5f9e%20(1).jpeg" width="180px" />
+<img src="https://github.com/wb6ya/wb6ya/blob/main/assets/videoframe_1647.png" width="180px" />
 
 ## @WB6ya  
 *Click to see my links below*
