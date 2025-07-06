@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,aws,bash,blender,bootstrap,cpp,css,dart,django,docker,figma,firebase,flask,flutter,gcp,git,html,java,js,laravel,mongodb,mysql,nextjs,nodejs,postgres,python,react,reactnative,sass,sqlite,tailwind,ts,unity,unreal,vue&perline=12" />
+    <img src="https://skillicons.dev/icons?i=angular,aws,bash,bootstrap,cpp,css,dart,django,docker,figma,firebase,flutter,gcp,git,html,java,js,mongodb,mysql,nextjs,nodejs,postgres,python,react,reactnative,sass,tailwind,ts,unreal&perline=12" />
   </a>
 </p>
 
