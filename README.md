@@ -21,22 +21,24 @@
 
 <td width="50%" valign="top">
 <blockquote>
-  <p>I'm WB6, a passionate developer dedicated to building innovative and enjoyable things in the tech world. I find joy in turning ideas into tangible realities, whether they are games, applications, websites, or integrated systems.</p>
+  <p><strong>🇬🇧 About Me</strong></p>
+  <p>I'm WB6, a passionate developer dedicated to building innovative and impactful things in the tech world. I find joy in turning complex problems into elegant digital solutions, from dynamic web applications to robust back-end systems.</p>
   <ul>
     <li>🧠 <strong>Constantly Learning:</strong> Always exploring the latest technologies to expand my skillset.</li>
     <li>🎮 <strong>Hobbies:</strong> Coding, design, gaming, and everything tech-related.</li>
-    <li>💡 <strong>My Goal:</strong> To build elegant and impactful technical solutions.</li>
+    <li>💡 <strong>My Goal:</strong> To build scalable and efficient technical solutions.</li>
   </ul>
 </blockquote>
 </td>
 
 <td width="50%" valign="top" dir="rtl">
 <blockquote dir="rtl">
-  <p>أنا WB6، مطور شغوف ببناء كل ما هو مبتكر وممتع في عالم التقنية. أجد متعتي في تحويل الأفكار إلى واقع ملموس، سواء كانت ألعاباً، تطبيقات، مواقع ويب، أو أنظمة متكاملة.</p>
+  <p><strong>🇸🇦 نبذة عني</strong></p>
+  <p>أنا WB6، مطور شغوف ببناء حلول تقنية مبتكرة ومؤثرة. أجد متعتي في تحويل المشاكل المعقدة إلى حلول رقمية أنيقة، بدءًا من تطبيقات الويب التفاعلية وحتى الأنظمة الخلفية القوية.</p>
   <ul>
     <li>🧠 <strong>أتعلم باستمرار:</strong> أبحث دائماً عن أحدث التقنيات لتوسيع مهاراتي.</li>
     <li>🎮 <strong>أهوى:</strong> البرمجة، التصميم، الألعاب، وكل ما يتعلق بالتكنولوجيا.</li>
-    <li>💡 <strong>هدفي:</strong> بناء حلول تقنية أنيقة ومؤثرة.</li>
+    <li>💡 <strong>هدفي:</strong> بناء حلول تقنية فعّالة وقابلة للتطوير.</li>
   </ul>
 </blockquote>
 </td>
@@ -59,7 +61,7 @@
 <img src="https://raw.githubusercontent.com/MAZHARMIK/MAZHARMIK/main/separator.gif">
 
 <div align="center">
-  <h2>🚀 My Featured Project | مشروعي المميز 🚀</h2>
+  <h2>🚀 JavaScript Projects Showcase | معرض مشاريع جافاسكريبت 🚀</h2>
 </div>
 <br>
 <table width="85%" align="center">
@@ -70,9 +72,9 @@
   </a>
 </td>
 <td width="70%" valign="top">
-  <h3><a href="https://github.com/wb6ya/30DaysJsProjects" target="_blank">30 Days Of JavaScript Projects</a></h3>
-  <p>A 30-day coding challenge where I built a new project every day, sharpening my core skills in vanilla JavaScript, HTML5, and CSS3. Explore the repository to see a variety of fun and interactive web components.</p>
-  <p dir="rtl">تحدي برمجي لمدة 30 يوماً قمت فيه ببناء مشروع جديد كل يوم، بهدف صقل مهاراتي الأساسية في JavaScript و HTML5 و CSS3. استكشف المستودع لمشاهدة مجموعة متنوعة من المشاريع التفاعلية والممتعة.</p>
+  <h3><a href="https://github.com/wb6ya/30DaysJsProjects" target="_blank">JavaScript Ecosystem Projects</a></h3>
+  <p>This repository is my dedicated showcase for projects built within the JavaScript ecosystem. Here you'll find everything from foundational projects using <b>HTML, CSS, and vanilla JS</b>, to more advanced applications built with modern tools like <b>React, Next.js, Sass, and Tailwind CSS</b>.</p>
+  <p dir="rtl">هذا المستودع هو معرضي المخصص للمشاريع المبنية ضمن بيئة جافاسكريبت. ستجد هنا كل شيء، بدءًا من المشاريع التأسيسية التي تستخدم <b>HTML و CSS و JavaScript</b>، وصولاً إلى تطبيقات أكثر تقدماً تم بناؤها بأدوات عصرية مثل <b>React و Next.js و Sass و Tailwind CSS</b>.</p>
 </td>
 </tr>
 </table>
