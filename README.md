@@ -54,7 +54,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,bootstrap,css,git,html,java,js,mongodb,mysql,nextjs,nodejs,react,reactnative,tailwind,ts&perline=12" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,css,git,html,js,mongodb,mysql,nextjs,nodejs,react,tailwind,ts&perline=12" />
   </a>
 </p>
 
